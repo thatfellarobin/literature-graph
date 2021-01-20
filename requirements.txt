@@ -1,5 +1,6 @@
 alabaster==0.7.12
 arrow==0.17.0
+astroid==2.4.2
 Babel==2.9.0
 beautifulsoup4==4.9.3
 bibtexparser==1.2.0
@@ -11,11 +12,15 @@ free-proxy==1.0.2
 future==0.18.2
 idna==2.10
 imagesize==1.2.0
+isort==5.7.0
 Jinja2==2.11.2
+lazy-object-proxy==1.4.3
 lxml==4.6.2
 MarkupSafe==1.1.1
+mccabe==0.6.1
 packaging==20.8
 Pygments==2.7.4
+pylint==2.6.0
 pyparsing==2.4.7
 PySocks==1.7.1
 python-dateutil==2.8.1
@@ -38,4 +43,6 @@ sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 stem==1.8.0
 texttable==1.6.3
+toml==0.10.2
 urllib3==1.26.2
+wrapt==1.12.1
