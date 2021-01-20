@@ -1,2 +1,2 @@
-# literature_graph
-Graphing tool for aiding literature searches
+# literature-graph
+Graphing tool to aid literature searches
